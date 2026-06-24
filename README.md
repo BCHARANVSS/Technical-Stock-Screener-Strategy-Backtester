@@ -81,7 +81,7 @@ dashboard.png        — Tableau dashboard screenshot
 
 ## Dashboard
 
-[Add Tableau Public link here]
+https://tinyurl.com/4w4vh3cj
 
 ## Related project
 
